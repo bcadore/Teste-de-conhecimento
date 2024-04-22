@@ -45,6 +45,7 @@ header h1 {
   border-radius: 6px;
 
   overflow: hidden;
+  margin-bottom: 26px;
 }
 
 .quiz-item h3 {
